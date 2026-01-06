@@ -1,5 +1,3 @@
-J'ai complété le README de votre projet frontend (React + TypeScript + Vite) en y ajoutant les instructions standard d'installation et de lancement, et surtout, les détails cruciaux concernant le fichier **`.env`** pour la configuration des URLs des API.
-
 ## 🚀 React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
